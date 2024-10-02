@@ -52,8 +52,8 @@ namespace EternalWarsWasBetterDiplomacyRandomEventsFix_NativeModloader
         public static IEnumerable<CodeInstruction> click_Transpiler(IEnumerable<CodeInstruction> instructions)
         {
             var codes = new List<CodeInstruction>(instructions);
-
-            int start = -1;
+             
+            int start = -1; 
 
             int end = -1;
 
