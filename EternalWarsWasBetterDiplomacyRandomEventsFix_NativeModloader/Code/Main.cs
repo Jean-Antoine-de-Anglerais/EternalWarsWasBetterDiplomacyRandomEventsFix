@@ -14,7 +14,7 @@ namespace EternalWarsWasBetterDiplomacyRandomEventsFix_NativeModloader
             if (global::Config.gameLoaded && !_initialized)
             {
                 harmony.Patch(AccessTools.Method(typeof(WorldLawElement), nameof(WorldLawElement.click)),
-                transpiler: new HarmonyMethod(AccessTools.Method(typeof(Patches), "click_Transpiler")));
+                transpiler: new HarmonyMethod(AccessTools.Method(typeof(Patches), nameof(Patches.click_Transpiler))));
 
                 _initialized = true;
             }
