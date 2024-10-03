@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Wars will no longer stop when the world law \"Diplomacy Random Events\" is turned off.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jean-Antoine d'Anglerais (le_ombre)")]
-[assembly: AssemblyProduct("EternalWarsWasBetterDiplomacyRandomEventsFix_NativeModloader")]
+[assembly: AssemblyProduct("EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("37db811d-8b4e-4804-827d-14ea7914a991")]
+[assembly: Guid("f6f4c515-17e9-43e6-b7b4-54dce8822b78")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

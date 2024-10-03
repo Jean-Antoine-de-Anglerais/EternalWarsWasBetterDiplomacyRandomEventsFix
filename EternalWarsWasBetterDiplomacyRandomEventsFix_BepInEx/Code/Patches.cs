@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
 
-namespace EternalWarsWasBetterDiplomacyRandomEventsFix_NativeModloader
+namespace EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx
 {
     public static class Patches
     {
