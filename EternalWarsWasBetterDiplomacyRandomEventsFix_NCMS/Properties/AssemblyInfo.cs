@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Eternal Wars Was Better: Diplomacy Random Events Fix")]
-[assembly: AssemblyDescription("Wars will no longer stop when the world law Diplomacy Random Events is turned off.")]
+[assembly: AssemblyTitle("EternalWarsWasBetterDiplomacyRandomEventsFix_NCMS")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jean-Antoine d'Anglerais (le_ombre)")]
-[assembly: AssemblyProduct("EternalWarsWasBetterDiplomacyRandomEventsFix_NativeModloader")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("EternalWarsWasBetterDiplomacyRandomEventsFix_NCMS")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("37db811d-8b4e-4804-827d-14ea7914a991")]
+[assembly: Guid("95f6a55c-347a-42e1-b7ea-37d3cb985cd2")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

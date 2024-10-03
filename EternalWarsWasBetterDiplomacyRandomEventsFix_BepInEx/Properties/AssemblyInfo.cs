@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
 [assembly: AssemblyTitle("Eternal Wars Was Better: Diplomacy Random Events Fix")]
-[assembly: AssemblyDescription("Wars will no longer stop when the world law \"Diplomacy Random Events\" is turned off.")]
+[assembly: AssemblyDescription("Wars will no longer stop when the world law Diplomacy Random Events is turned off.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jean-Antoine d'Anglerais (le_ombre)")]
 [assembly: AssemblyProduct("EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx")]

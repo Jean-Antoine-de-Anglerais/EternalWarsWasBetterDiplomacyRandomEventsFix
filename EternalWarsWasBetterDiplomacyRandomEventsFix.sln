@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EternalWarsWasBetterDiploma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx", "EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx\EternalWarsWasBetterDiplomacyRandomEventsFix_BepInEx.csproj", "{F6F4C515-17E9-43E6-B7B4-54DCE8822B78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EternalWarsWasBetterDiplomacyRandomEventsFix_NCMS", "EternalWarsWasBetterDiplomacyRandomEventsFix_NCMS\EternalWarsWasBetterDiplomacyRandomEventsFix_NCMS.csproj", "{95F6A55C-347A-42E1-B7EA-37D3CB985CD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F6F4C515-17E9-43E6-B7B4-54DCE8822B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F4C515-17E9-43E6-B7B4-54DCE8822B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F4C515-17E9-43E6-B7B4-54DCE8822B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F6A55C-347A-42E1-B7EA-37D3CB985CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F6A55C-347A-42E1-B7EA-37D3CB985CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F6A55C-347A-42E1-B7EA-37D3CB985CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F6A55C-347A-42E1-B7EA-37D3CB985CD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
